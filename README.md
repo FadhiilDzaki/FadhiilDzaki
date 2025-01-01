@@ -44,6 +44,7 @@ ___
 - **Others:** 
   ![ETL](https://img.shields.io/badge/ETL-1F77B4?style=for-the-badge&logo=apache-airflow&logoColor=white)
   ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-0172B6?style=for-the-badge&logo=apache-airflow&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD700?style=for-the-badge&logo=hugging-face&logoColor=white)
   ___
   ## Contact
 - 📧 Email: [fdzakimkerja@gmail.com](mailto:fdzakimkerja@gmail.com)
